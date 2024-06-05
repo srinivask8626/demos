@@ -1,0 +1,37 @@
+html
+
+css
+
+javascript
+
+
+images
+
+
+fonts
+
+audio
+
+video files
+
+
+folder struect
+
+
+css
+
+js
+
+assets
+ img
+ fonts
+
+
+ file name     name
+
+ html  .html     index.html
+ css   .css      style.css
+ js    .js       app.js index.js
+ img   .png .jpg .svg
+ json  .json
+ font  online
