@@ -12,3 +12,28 @@ how will you skip
 
 .gitignore
 
+---------------------------tips
+
+
+github
+ search awesome key
+
+
+ awesome git
+ aweome react
+
+ https://github.com/git-tips/tips
+
+https://typicode.github.io/husky/
+
+prettier
+
+linting
+
+add files to git
+
+push
+
+--------------------------------------- core---------------------
+
+https://docs.emmet.io/cheatsheet-a5.pdf
