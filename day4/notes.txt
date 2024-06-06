@@ -1,0 +1,14 @@
+nodejs
+react js
+
+npm package manager
+
+npm install react
+
+node_module  auto generate  files
+
+we dont want auto generated files
+how will you skip
+
+.gitignore
+
