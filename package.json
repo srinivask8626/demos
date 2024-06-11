@@ -1,21 +1,21 @@
 {
-  "name": "github-repos",
-  "version": "1.0.0",
-  "description": "learning MERN stack",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "husky",
-    "format": "npx prettier . --write"
-  },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "husky": "^9.0.11",
-    "prettier": "3.3.1"
-  },
-  "dependencies": {
-    "webpack": "^5.91.0",
-    "wifi-password": "^3.0.1"
-  }
+    "name": "github-repos",
+    "version": "1.0.0",
+    "description": "learning MERN stack",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "prepare": "husky",
+        "format": "npx prettier . --write"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "husky": "^9.0.11",
+        "prettier": "3.3.1"
+    },
+    "dependencies": {
+        "webpack": "^5.91.0",
+        "wifi-password": "^3.0.1"
+    }
 }
