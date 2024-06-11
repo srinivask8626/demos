@@ -1,0 +1,24 @@
+you have create github account
+
+create repo
+
+build layout
+
+pick a layout from https://www.uidesigndaily.com
+
+use figma understand layout designer
+
+build webpage
+
+create folder
+src
+ js
+ css
+ asset
+
+ webpage
+
+ deploy app  using https://www.netlify.com/
+
+ 2 way drop and drop
+ github
