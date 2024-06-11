@@ -1,0 +1,35 @@
+3 steps
+
+install
+
+configuration
+
+execution
+ '' , ""
+{
+"key2":"value",
+"key3": "value"
+
+}
+
+
+number
+string
+boolean
+array
+object
+
+
+------------
+
+
+npm
+
+
+package.json
+
+install package
+
+node_modules
+  bunch files
+package-lock.json
