@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        .text {
+            border: 1px solid red;
+        }
+    </style>
+</head>
+
+<body>
+
+    <main>
+        <header>
+
+            <h1>Searching the people</h1>
+        </header>
+        <section>
+
+            <p class="" id="" data-info="info" hidden> find the best people in the world</p>
+
+            <form>
+
+                <label for="name">Name</label>
+                <input type="text" name="" class="text" id="user" minlength="4" maxlength="8" required>
+
+                <button onclick="getUser()">search</button>
+            </form>
+        </section>
+
+
+    </main>
+
+    <script>
+
+        function getUser() {
+
+
+            const nameId = document.getElementById("user");
+
+            const userValue = nameId?.value;
+
+            console.log(userValue)
+        }
+    </script>
+
+</body>
+
+</html>

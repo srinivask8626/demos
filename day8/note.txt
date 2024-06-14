@@ -1,0 +1,56 @@
+html/css/js/react/node/
+
+
+linter
+
+
+-> some code  ? good code/ bad code
+
+online link upload code  get result
+install as part build
+
+
+
+
+style guide line
+ google
+ aribnb
+
+
+
+
+
+
+formatting
+
+prettier
+
+----------- tools
+
+install
+configuration
+execution
+
+
+how write code
+how use figma layout
+conversion of layout  figma to html
+how deploy app
+how to use tool  prettier/ git/ husky / conversion commit
+how to commit code
+best practice codeing / format/ tools
+
+
+each tools
+read official documenting
+
+crash course of each topic in youtube
+demo each topic  husky, prettier,
+
+
+--- 3 steps
+
+
+what is purpose
+example
+uncase
