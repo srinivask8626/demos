@@ -16,13 +16,9 @@ HTML5 introduced several semantic elements to provide more meaning and structure
 
 8. `<figure>` and `<figcaption>`: Used together to represent images or illustrations and their captions, respectively.
 
-
-
 Using these semantic elements appropriately can improve the structure and accessibility of your HTML documents.
 
-
-popular  elements
-
+popular elements
 
 HTML5 introduced several elements that quickly became popular due to their utility and ease of use. Some of these popular elements include:
 
