@@ -1,0 +1,18 @@
+full version layout convention
+
+https://www.freefigmatemplates.com/
+
+
+
+https://www.figma.com/community/file/1379863824013218316
+
+css introduction
+https://docs.emmet.io/cheat-sheet/
+
+
+
+day 9 title: HTML  attributes
+
+ - form attributes
+ - converting layout to end to end flow
+ - css introduction

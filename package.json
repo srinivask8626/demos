@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "husky",
-    "format": "npx prettier . --write"
+    "prepare": "husky"
   },
   "author": "",
   "license": "ISC",
