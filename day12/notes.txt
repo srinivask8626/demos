@@ -1,0 +1,31 @@
+  border: none;
+
+.test {
+border: none;
+}
+
+      top
+
+left           right
+
+      bottom
+
+padding:
+
+border-image
+
+border-top-image
+
+
+---------extesion
+
+react
+redux
+
+json
+
+
+
+https://github.com/postcss/autoprefixer?tab=readme-ov-file
+
+https://flaviocopes.com/css-vendor-prefixes/

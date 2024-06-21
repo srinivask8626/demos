@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        label {
+            border: 1px solid;
+            margin-top: 1rem;
+            display: block;
+        }
+
+        input {
+            width: 300px;
+        }
+
+        input:checked {
+            outline: 2px solid deeppink;
+        }
+    </style>
+</head>
+
+<body>
+    <form>
+        <p>Click on the text box and choose any option suggested by your browser.</p>
+
+        <label for="name">Name</label>
+        <input id="name" name="name" type="text" autocomplete="name" />
+
+        <label for="email">Email Address</label>
+        <input id="email" name="email" type="email" autocomplete="email" />
+
+        <label for="country">Country</label>
+        <input id="country" name="country" type="text" autocomplete="country-name" />
+
+        <label for="check"> check box</label>
+        <input type="checkbox" name="check" id="">
+    </form>
+
+</body>
+
+</html>
