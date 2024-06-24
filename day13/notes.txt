@@ -1,0 +1,74 @@
+css
+
+html
+element
+attributes
+
+css
+--------
+
+fonts
+colors
+Background
+Box Sizin
+
+topics
+and propoes
+
+----
+
+extnrnal css
+
+folder/ css
+app.css
+style.css
+
+style.min.css
+
+build grunt gulp wepack
+
+config
+
+setup local server
+comperss file style.css -> sytyle.min.css
+
+
+html
+css
+js
+img
+fonts
+
+node
+mjs -> js -> min.js
+ts -> js -> min.js
+tsx -> js -> min.js
+jsx-> js-> min.js
+
+local
+
+production
+
+
+--------------------------
+
+method ()
+properties
+
+pre default
+
+custom  ->
+
+css
+
+rotate()
+pass input
+
+u get
+out put
+
+
+media quires
+techniques
+
+display

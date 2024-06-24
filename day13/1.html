@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+
+    <style>
+        body {
+            background-color: #add8e6
+        }
+
+        .welcome {
+            color: red;
+        }
+
+        p {
+            text-transform: uppercase
+        }
+
+        footer {
+            display: flex;
+        }
+
+        .footer {
+            border: 1px solid pink;
+        }
+
+        .common {
+            padding: 3px;
+            color: lightcoral;
+        }
+
+        #hello {
+            color: blue;
+        }
+
+        * {
+            box-sizing: border-box;
+            font-weight: 300;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+    </style>
+
+    <style>
+        [data-bs-theme="blue"] {
+            --bs-body-color: var(--bs-white);
+            --bs-body-color-rgb: #{to-rgb($white)};
+            --bs-body-bg: var(--bs-blue);
+            --bs-body-bg-rgb: #{to-rgb($blue)};
+            --bs-tertiary-bg: #{$blue-600};
+
+            .dropdown-menu {
+                --bs-dropdown-bg: #{mix($blue-500, $blue-600)};
+                --bs-dropdown-link-active-bg: #{$blue-700};
+            }
+
+            .btn-secondary {
+                --bs-btn-bg: #{mix($gray-600, $blue-400, .5)};
+                --bs-btn-border-color: #{rgba($white, .25)};
+                --bs-btn-hover-bg: #{darken(mix($gray-600, $blue-400, .5), 5%)};
+                --bs-btn-hover-border-color: #{rgba($white, .25)};
+                --bs-btn-active-bg: #{darken(mix($gray-600, $blue-400, .5), 10%)};
+                --bs-btn-active-border-color: #{rgba($white, .5)};
+                --bs-btn-focus-border-color: #{rgba($white, .5)};
+                --bs-btn-focus-box-shadow: 0 0 0 .25rem rgba(255, 255, 255, .2);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <p class="welcome common">welcome</p>
+    <button>save </button>
+    <h1 id="hello">hello</h1>
+    <p class="common">bye</p>
+    <button>welcome</button>
+
+    <footer class="footer">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore voluptatum mollitia architecto distinctio optio
+        quod aperiam veritatis illo quas, temporibus numquam quasi molestiae sequi quisquam asperiores porro, esse
+        quibusdam. Hic?
+    </footer>
+</body>
+
+</html>
