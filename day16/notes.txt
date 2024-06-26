@@ -1,0 +1,34 @@
+Responsive
+media queries
+
+demo
+
+home  : https://www.w3schools.com/cssref/playdemo.php?filename=playcss_display
+
+
+layout : https://www.free-css.com/free-css-layouts/page1
+
+
+inline
+block
+flex
+grid
+postion
+float
+
+
+cal
+
+add
+sub
+mu
+
+top
+
+right
+bottom
+
+left
+
+
+postion: fixed
