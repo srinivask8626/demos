@@ -1,0 +1,57 @@
+core
+
+folder
+
+ src
+
+ html
+
+  index.html
+ css
+
+
+
+
+
+ nesting
+
+ par
+  ch
+     sub
+
+
+
+
+     T shrit
+
+size
+
+sm  16
+md  2 *16
+lg  3*16
+xl  4*16
+xxl 5*16
+
+
+we right
+sass -> css -> browser
+
+apply css -> get result
+
+
+100 vs 30
+
+
+core will be same
+
+padding
+margin
+border
+box
+
+
+
+
+scss
+
+sass

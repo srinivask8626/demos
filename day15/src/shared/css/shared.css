@@ -1,0 +1,13 @@
+:root {
+    --primary-color: #034836
+}
+
+.hero {
+    background-color: var(--primary-color)
+}
+
+.btn {
+    width: 33px;
+    background:  var(--primary-color)
+
+}
