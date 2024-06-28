@@ -1,0 +1,79 @@
+BEM
+
+
+RWD
+
+
+desinger
+
+vs
+
+developer
+
+
+- Browser
+  IE
+  FE
+  ED
+  Chome
+
+  ->   any Browser
+       any mobile
+       tables
+       projects
+
+
+css same
+
+width
+
+height
+
+--------------------
+
+
+500
+500
+
+3
+
+
+mobile
+
+desktop
+
+
+ipad
+
+look and feel
+
+layout webpage
+
+(desktops, tablets, and phones)
+
+project
+
+1 to 100
+
+blow 90
+
+abouve 10
+
+1 to 30   -> 25
+50
+
+30 to 50 -> 33
+
+50 t0 80 -> 80
+
+8 to 100 -> 99
+
+width -> 500px
+
+fixe
+min  -> 200px
+max -> 500
+
+max : 1000px
+
+box -> 500 * 500

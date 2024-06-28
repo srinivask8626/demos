@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        body {
+            box-sizing: border-box;
+            background-color: lightblue;
+        }
+
+        img {
+            width: 300px;
+            height: 300px;
+        }
+
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            width: 300px;
+            margin: 0 auto;
+            border: 10px solid #f1f1f1;
+            border-radius: 3px;
+
+            border: 1px solid red;
+        }
+
+        figcaption {
+            text-align: center;
+        }
+
+        @media screen and (max-width: 800px) {
+            body {
+                background-color: red;
+            }
+
+            .container {
+                display: flex;
+                display: flex;
+                width: 100%;
+                flex-direction: row;
+                gap: 10rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+
+    <main class="container">
+        <h1>RWD Demo</h1>
+
+        <article class="img">
+            <figure>
+                <img src="https://www.w3schools.com/html/img_girl.jpg" alt="">
+            </figure>
+            <figcaption>Rand image</figcaption>
+
+        </article>
+
+        <p class="para">
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsum necessitatibus, laboriosam aspernatur
+            voluptatibus excepturi voluptatem repellendus blanditiis repudiandae aliquid maiores odit atque error porro?
+            Commodi molestiae laudantium id iure labore.
+        </p>
+    </main>
+</body>
+
+</html>
